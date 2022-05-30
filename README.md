@@ -1,7 +1,7 @@
 # Abhishek Chatterjee
 ### Software Engineer at Flexday Solutions LLC
 
-A self-tought Software Engineer with 3+ years of experience, spealized in building robust applications that uses various technologies, also an active open-source developer and founder of Delphy seeking challenging and rewarding opportunities to showcase my experience and knowledge.
+A self-taught Software Engineer with 3+ years of experience specializing in building robust applications that use various technologies, also an active open-source developer and founder of Delphy seeking challenging and rewarding opportunities to showcase my experience and knowledge.
 
 ### Work Experience
 
@@ -21,7 +21,6 @@ I also worked as an intern in *TechVariable as a Programmer Analyst Intern for 9
 
 
 ### Skills 
-
 - Algorithms, Data Structure, and Problem Solving. Full-Stack Development, Backend Development, RESTful API.
 - *Languages*: Python, JavaScript, C++, HTML, CSS.
 - *Frameworks/Libraries*: Flask, FastAPI, ExpressJS, ReactJS, etc.
@@ -29,15 +28,15 @@ I also worked as an intern in *TechVariable as a Programmer Analyst Intern for 9
 - *Cloud Platforms*: AWS (EC2, S3, Lambda, etc), Azure (App Service, Azure Blob, Azure ML etc).
 - *Container*: Docker.
 
-### Acheivements
+### Achievements
 #### Best Performmer (2020)
 Awarded the best employee for the year 2020
 
 #### Founded Delphy (2021-Present)
-Single handely developed a product called Delphy. Delphy is a one-stop web application that provides easy access to information, stats, user-generated reviews, and more on packages provided by leading package repositories like NPM, PyPI. By providing these information, Delphy helps other developers in choosing the right package for their project.
+Single handily developed a product called Delphy. Delphy is a one-stop web application that provides easy access to information, stats, user-generated reviews, and more on packages provided by leading package repositories like NPM, and PyPI. By providing this information, Delphy helps other developers in choosing the right package for their projects.
 
 #### Open Source activities (-Present)
-Developed several open-source packages inlcuding Hocrox, an image augmentation library and NeuralPy, a Keras like Deep Learning library that works on top of PyTorch.
+Developed several open-source packages including Hocrox, an image augmentation library, and NeuralPy, a Keras like Deep Learning library that works on top of PyTorch.
 
 ### Education
 #### MSc in Data Science
