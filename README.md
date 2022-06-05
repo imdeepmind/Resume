@@ -64,11 +64,3 @@ Chandigarh University (June 2021 - Present)
 
 ##### **Bachelor of Computer Applications (BCA)**
 Krishna Kanta Handiqui State Open University (June 2016 - July 2019)
-
-
-## Contact Information
-- Email - abhishek.chatterjee97@protonmail.com
-- Phone- +91-60026-70084 and +91-840-301-7088
-- LinkedIn - https://www.linkedin.com/in/imdeepmind/
-- GitHub - https://github.com/imdeepmind/
-- Website: https://imdeepmind.com/
