@@ -10,7 +10,7 @@ A self-taught Software Engineer with **4+ years** of industry experience and an 
 ### Experience
 #### Senior Software Engineer
 ##### TechVariable (November 2022 - Present)
-- Developed a database client for AWS Neptune. With the database client, users can write and execute database queries, generate complex queries, insert and edit data, and generate reports. Tech Stack: JavaScript, NodeJS, Fastify, Stencil, Tailwind CSS, AWS Neptune.
+- Developed a **database client for AWS Neptune**. With the database client, users can write and execute database queries, generate complex queries, insert and edit data, and generate reports. Tech Stack: JavaScript, NodeJS, Fastify, Stencil, Tailwind CSS, AWS Neptune.
 
 #### Software Engineer
 ##### Flexday Solutions LLC (formerly Leokraft Technologies) (May 2021 - November 2022)
